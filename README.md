@@ -74,6 +74,6 @@ El motor jurídico modela estrictamente las causales constitucionales y jurispru
 ## 👤 Autor
 
 **Josué Barrera**  
-*Ingeniero en Computación / Sistemas — Universidad Central del Ecuador (UCE)*  
+*Egresado de Ingeniería en Sistemas de Información — Universidad Central del Ecuador (UCE)*  
 *Especialista en Arquitectura de Software, LegalTech e Inteligencia Artificial Aplicada*  
 🐙 **GitHub:** [@JaBarrerar](https://github.com/JaBarrerar)
